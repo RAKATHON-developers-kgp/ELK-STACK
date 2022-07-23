@@ -3,4 +3,7 @@ docker-compose file with elasticsearch, logsath and kibana configurations with l
 
 
 # Logstash input configurations
-to change or to view my input configuration, check 
+to change or to view my input configuration, check /logstash/pipeline/logstash.config file 
+
+# Mention Log File Path
+you have to mention your .log file's path in the docker-compose file as I have mentioned 
